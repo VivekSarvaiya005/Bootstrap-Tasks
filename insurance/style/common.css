@@ -1,0 +1,110 @@
+@import url("./font.css");
+
+:root{
+      --bs-primary-rgb: 35, 166, 240 ;      /*#23A6F0 */
+      --bs-secondary-rgb : 115, 115, 115;       /*#737373 */
+      --bs-info-rgb : 142, 194, 242;               /*#8EC2F2*/
+      --bs-dark-rgb: 37, 43, 66;              /*#252B42*/
+      --bs-success-rgb: 45 , 192 , 113 ;      /* #2DC071*/
+      /* --bs-gutter-y: 2rem; */
+}
+
+*{
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+}
+
+body{
+    font-family: "Montserrat" , sans-serif;
+}
+
+.g-5,.gx-5 {
+      --bs-gutter-x: 30px !important;
+    }
+
+.g-5,.gy-5 {
+      --bs-gutter-y: 30px !important;
+    }
+
+.g-4 , .gx-4{
+    --bs-gutter-x : 20px !important;
+}
+
+.g-4 , .gy-4  {
+    --bs-gutter-y : 20px !important ;
+}
+
+h1{
+    font-size: 58px;
+    font-weight: 800;
+    line-height: 80px;
+}
+
+h2{
+    font-size: 40px;
+    font-weight: bold;
+    line-height: 57px;
+}
+
+h3{
+    font-size: 24px;
+    font-weight: bold;
+    line-height: 32px;
+}
+
+.smolhead , h4 {
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 24px;
+}
+
+h5{
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 24px;
+}
+
+p{
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+}
+header nav{
+    height: 91px;
+}
+
+h1 , h2 , h5 , p , a ,.btn{
+    letter-spacing: 0.2px;
+}
+
+h3 , h4 ,.smolhead{
+    letter-spacing: 0.1px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+
+.peralg{
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 30px;
+}
+
+.btn{
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 22px;
+}
+
+section{
+    padding: 112px 0;
+}
+
+@media (min-width : 1200px) {
+    .container{
+        max-width: 1050px;
+    }
+}
+

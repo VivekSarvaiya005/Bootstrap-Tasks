@@ -1,0 +1,28 @@
+font : Montserrat
+
+color
+
+primary color : #23A6F0 
+secondary color : #737373:
+info color : #8EC2F2
+dark color : #252B42
+font waut : normal= 400() , midiam 500(p , h4) , semibold 600(h6) , bold 700(h2 , h3 , h4 , h5) , extrabold 800(h1)
+
+letter spacing: 0.2px()
+                0.1px();
+
+fs lh
+14px
+16px
+
+
+
+h1 :size 58 , wait extra-bold , line-hight 80 , letor spesing 0.2
+h2 : size 40 , width bold , laign-hight 57 , letor spesing 0.2
+h3 : size 24 , width bold , lign hight 32 , letor spesing 0.1
+
+p : size 14 , width midiam , light-hight 20 ,letor spesing 0.2
+
+section : top bottpm pading 112px
+
+genral gap : 30 px

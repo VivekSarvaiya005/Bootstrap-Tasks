@@ -1,0 +1,69 @@
+*{
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+}
+
+.hero{
+    background-image: linear-gradient(to right , rgba(0, 0, 0, 1)  , rgba(0, 0, 0, 0) ) , url("../assets/img/herobg.png");
+    background-size: cover;
+    margin-top: -91px;
+    padding-top: 203px;
+}
+
+.featurs{
+    padding: 96px 0;
+}
+
+.featurs i{
+    font-size: 60px;
+}
+
+.common-margin{
+    margin-top: 80px;
+}
+
+.review .userreview{
+    padding: 30px 40px;
+    max-width: 449px;
+}
+
+.review .userreview h4{
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.2;
+
+}
+
+.review .user-img{
+    left: 0;
+    transform: translateX(-70%);
+}
+
+.project::before{
+    content: "";
+    background: linear-gradient(to bottom , rgba(0,0,0, 0) 15% , rgba(56,56,56, 0.84) 100%);
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+
+
+.project img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+
+}
+
+.project .post-detail h3{
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 24px;
+}
+
+.pricing .price-box{
+    padding: 50px 40px;
+    margin : 26px 0;
+}
