@@ -1,0 +1,79 @@
+@font-face {
+    font-family: 'Satoshi';
+    src: url('../assets/font/Satoshi/Satoshi-Regular.eot');
+    src: url('../assets/font/Satoshi/Satoshi-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../assets/font/Satoshi/Satoshi-Regular.woff2') format('woff2'),
+        url('../assets/font/Satoshi/Satoshi-Regular.woff') format('woff'),
+        url('../assets/font/Satoshi/Satoshi-Regular.ttf') format('truetype'),
+        url('../assets/font/Satoshi/Satoshi-Regular.svg#Satoshi-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Satoshi';
+    src: url('../assets/font/Satoshi/Satoshi-Medium.eot');
+    src: url('../assets/font/Satoshi/Satoshi-Medium.eot?#iefix') format('embedded-opentype'),
+        url('../assets/font/Satoshi/Satoshi-Medium.woff2') format('woff2'),
+        url('../assets/font/Satoshi/Satoshi-Medium.woff') format('woff'),
+        url('../assets/font/Satoshi/Satoshi-Medium.ttf') format('truetype'),
+        url('../assets/font/Satoshi/Satoshi-Medium.svg#Satoshi-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Satoshi';
+    src: url('../assets/font/Satoshi/Satoshi-Bold.eot');
+    src: url('../assets/font/Satoshi/Satoshi-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../assets/font/Satoshi/Satoshi-Bold.woff2') format('woff2'),
+        url('../assets/font/Satoshi/Satoshi-Bold.woff') format('woff'),
+        url('../assets/font/Satoshi/Satoshi-Bold.ttf') format('truetype'),
+        url('../assets/font/Satoshi/Satoshi-Bold.svg#Satoshi-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: 'Integral-CF';
+    src: url('../assets/font/Integral-CF/FONTSPRINGDEMO-IntegralCFBoldRegular.eot');
+    src: url('../assets/font/Integral-CF/FONTSPRINGDEMO-IntegralCFBoldRegular.eot?#iefix') format('embedded-opentype'),
+        url('../assets/font/Integral-CF/FONTSPRINGDEMO-IntegralCFBoldRegular.woff2') format('woff2'),
+        url('../assets/font/Integral-CF/FONTSPRINGDEMO-IntegralCFBoldRegular.woff') format('woff'),
+        url('../assets/font/Integral-CF/FONTSPRINGDEMO-IntegralCFBoldRegular.ttf') format('truetype'),
+        url('../assets/font/Integral-CF/FONTSPRINGDEMO-IntegralCFBoldRegular.svg#FONTSPRINGDEMO-IntegralCFBoldRegular') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Integral-CF';
+    src: url('../assets/font/Integral-CF/FONTSPRINGDEMO-IntegralCFRegular.eot');
+    src: url('../assets/font/Integral-CF/FONTSPRINGDEMO-IntegralCFRegular.eot?#iefix') format('embedded-opentype'),
+        url('../assets/font/Integral-CF/FONTSPRINGDEMO-IntegralCFRegular.woff2') format('woff2'),
+        url('../assets/font/Integral-CF/FONTSPRINGDEMO-IntegralCFRegular.woff') format('woff'),
+        url('../assets/font/Integral-CF/FONTSPRINGDEMO-IntegralCFRegular.ttf') format('truetype'),
+        url('../assets/font/Integral-CF/FONTSPRINGDEMO-IntegralCFRegular.svg#FONTSPRINGDEMO-IntegralCFRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Integral-CF';
+    src: url('../assets/font/Integral-CF/FONTSPRINGDEMO-IntegralCFMediumRegular.eot');
+    src: url('../assets/font/Integral-CF/FONTSPRINGDEMO-IntegralCFMediumRegular.eot?#iefix') format('embedded-opentype'),
+        url('../assets/font/Integral-CF/FONTSPRINGDEMO-IntegralCFMediumRegular.woff2') format('woff2'),
+        url('../assets/font/Integral-CF/FONTSPRINGDEMO-IntegralCFMediumRegular.woff') format('woff'),
+        url('../assets/font/Integral-CF/FONTSPRINGDEMO-IntegralCFMediumRegular.ttf') format('truetype'),
+        url('../assets/font/Integral-CF/FONTSPRINGDEMO-IntegralCFMediumRegular.svg#FONTSPRINGDEMO-IntegralCFMediumRegular') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
